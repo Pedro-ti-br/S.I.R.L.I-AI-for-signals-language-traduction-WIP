@@ -1,4 +1,4 @@
-Sirli - Tradução em Libras com IA / Sign Language AI Translation
+###Sirli - Tradução em Libras com IA / Sign Language AI Translation###
 
     Status: 🚧 Em Desenvolvimento / Work in Progress
 
