@@ -1,4 +1,8 @@
-# S.I.R.L.I-AI-for-signals-language-traduction-WIP
+Sirli - Tradução em Libras com IA / Sign Language AI Translation
+
+    Status: 🚧 Em Desenvolvimento / Work in Progress
+
+    Sistema inteligente para tradução e interpretação de Libras (Língua Brasileira de Sinais) utilizando Inteligência Artificial.
 🇧🇷 Português
 📝 Descrição
 
